@@ -1,0 +1,4 @@
+3
+append 1
+pop
+append 1

@@ -1,0 +1,5 @@
+4
+append 4
+append 3
+appendleft 2
+popleft
